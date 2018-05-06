@@ -22,7 +22,7 @@ body {
     display:flex;
     flex-direction: column;
     justify-content: space-around;
-    align-items: space-around;
+    align-items: flex-start;
     padding: 20px 15px;
     padding-right:10%;
     padding-top:15px;
